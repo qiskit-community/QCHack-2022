@@ -1,8 +1,8 @@
-# Preparation for Qiskit Camp!
+# Preparation for QCHack 2022
 
 ## Things to install
 
-Each hackathon participant must bring a laptop with the following installed:
+Each hackathon participant is strongly recommended to have a computer with the following installed:
 
 ### Required
 You need to install the following software packages for the hackathon:
@@ -10,7 +10,7 @@ You need to install the following software packages for the hackathon:
 - Jupyter notebook
 - Qiskit
 
-You can follow the instructions [here](https://qiskit.org/documentation/install.html) to install the required software packages, or [here](https://www.youtube.com/watch?v=M4EkW4VwhcI&list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY&index=3) if you prefer watching a video.
+You can follow the instructions [here](https://qiskit.org/documentation/getting_started.html) to install the required software packages, or [here](https://www.youtube.com/watch?v=1kRfHNUbkrg) if you prefer watching a video.
 
 ### Optional
 
@@ -29,7 +29,6 @@ You can follow the instructions [here](https://qiskit.org/documentation/install.
 
 Here are some learning resources for Qiskit:
 - [Contributing to Qiskit](https://qiskit.org/documentation/contributing_to_qiskit.html) (*requiered for code contributions!*)
-- [Coding with Qiskit Youtube series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) (*strongly recommended!*)
 - [Qiskit tutorials](https://quantum-computing.ibm.com/jupyter/tutorial/1_start_here.ipynb)
 - [Qiskit textbook](https://community.qiskit.org/textbook/)
 
