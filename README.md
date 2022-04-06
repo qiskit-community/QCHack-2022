@@ -1,109 +1,47 @@
-## Hackathon timetable
+## IBM Quantum Challenge Overview
 
-The full schedule is available ⚠️(link)[here](https://community.qiskit.org/events/). 
+As part of QCHack 2022, IBM Quantum is providing the following challenge for hackathon participants. The full challenge will be released on the morning of Saturday, April 9th. All projects can be maintained as issues on this GitHub page, but need to be submitted directly to the QCHack organizers on Sunday morning. If you do not submit your project to the organizers before the deadline, it is disqualified. 
 
-<table>
-<tr><td>
-<table>
-<thead>
-<tr>
-<th colspan="2">Before Dec 12 ⚠️(date)</th>
-</tr>
-</thead>
-<tbody>
-    <tr><td colspan="2"><a href="#things-to-do-before-the-hackathon">Get ready!</a></td></tr>
-    <tr><td colspan="2"><a href="#collect">Collect ideas</a></td></tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr>
-<th colspan="2">Thursday (Dec 12 ⚠️(date))</th>
-</tr>
-</thead>
-<tbody>
-    <tr><td>9:00 - 9:30</td> <td><a href="#time-for-pitching-the-idea">Pitching ideas</a></td></tr>
-    <tr><td>9:30 - 10:00</td><td><a href="#team-formation">Team Formation</a></td></tr>
-    <tr><td>10:00 - 23:30</td><td><a href="#the-hacking-part-of-the-hackathon">Hackathon!</a> (day 1)</td></tr>
-</tbody>
-</table>
-</td><td>
-<table>
-<thead>
-<tr>
-<th colspan="2">Friday (Dec 13⚠️(date))</th>
-</tr>
-</thead>
-<tbody>
-    <tr><td>9:00 - 13:30</td><td><a href="#the-hacking-part-of-the-hackathon">Hackathon!</a> (day 2)</td></tr>
-    <tr><td>13:30 - 14:30</td><td><a href="#its-presentation-time"> Prepares presentation</a></td></tr>
-    <tr><td>15:00 - 17:00</td><td>Presentations!</td></tr>
-    <tr><td>17:00 - 18:00</td><td><a href="#its-awards-time">Judges discuss in private</a></td></tr>
-    <tr><td>17:00 - 18:00</td><td>Participants vote their favorite project</td></tr>
-    <tr><td>18:00</td><td><a href="#its-awards-time">Awards!</a></td></tr>
-</tbody>
-</table>
-</td></tr></table>
 
 ------
 
 ## Before starting
 
 <dl>
-    <dt name="things-to-do-before-the-hackathon">Things to do before the hackathon</dt>
+    <dt name="get-prepared">Get Prepared</dt>
     <dd>
       
 Check the [preparation & installation document](preparation%26installation.md) note for things to do before the hackathon.
 
 </dd>
 
-
-    <dt name="collect">I have an idea for the hackathon</dt>
-    <dd>
         
-Open an issue in this repo (using the [`new project`](issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name)⚠️(link) template) and explain your idea in some paragraphs.
+IBM Quantum offers a variets of learning materials around Qiskit. First - check out the replay of Abby Mitchell's [QCHack Qiskit tutorial here](https://www.twitch.tv/quantumcoalition). Next, explore the [Qiskit Textbook](https://qiskit.org/textbook-beta/) which has chapters on nearly every side of quantum computing. Finally, watch some videos on the [Qiskit YouTube page](https://www.youtube.com/c/qiskit). 
 
-All the proposed projects should make use of some part of Qiskit (including the backends). They can also extend Qiskit or analyze it in some way. Take a look to projects from previous camps/hackathons for inspiration.
+All the proposed projects should make use of some part of Qiskit (including the backends). They can also extend Qiskit or analyze it in some way. See the full challenge document for details.
 
 </dd>
-
-## Time for pitching the idea
-
-Before the hackathon starts, the first thing to be done on the first day is to pitch all the ideas registered [here](https://github.com/qiskit-community/qiskit-camp-africa-19/issues)⚠️(link). The pitch is a 60-second-long exposition  by the original submitter of the idea. Make sure that you mention, at least, these three elements: team number, the problem to solve, the kind of people you need in your team. The goal is to recruit participant behind your idea. If your idea does not get critical mass, it will be discarded for this hackathon. 
 
 ## Team formation
 
 <dl>
-    <dt name="participate">I would like to participate in an existing idea</dt>
+    <dt name="participate">I'm already on a team</dt>
     <dd>
 
-Participants and coaches can comment and add information as comments in the ideas (as issue comments). [After the pitches](#time-for-pitching-the-idea), there is time for team formation. Find the person behind the idea (feel free to slack them) and ask for more. Once you are convinced, add a comment in the issue mentioning `@qcamp` (our [helpful bot](https://github.com/qcamp)). After some seconds, you will be assigned to the issue. Being assigned to the issue means being part of the team.
-
+ Great! We think teams of 3 to 5 people would be best suited for the IBM Challenge.
+        
 </dd>
-    <dt name="reassign">I am already in a team, but I want to change</dt>
+    <dt name="reassign">I don't have a team yet</dt>
     <dd>
 
-If a participant is assigned to team and she changes her mind, she has to unassigned herself from the current team and post a comment mentioning `@qcamp` in the new team. A participant cannot be assigned to more than one open team at any time.
+That's ok! Make sure you post in the Discord channel letting others know which challenge you're interested in working on, and a little bit about yourself. Everyone signed up for QCHack shares the same drive as you do to build something awesome, so it'll be hard to go wrong. Some things that you may want to consider are time zones and interests of each team member. Aligning on those factors may leads to a more seamless experience.
 
 </dd>
-   <dt name="nothing">None of the existing ideas is suitable for me :(</dt>
+   <dt name="nothing">I'd prefer to work on this alone</dt>
 <dd>
 
-If any of the proposed ideas is suitable for you, considering submitting your own idea. Maybe, you feel that the full thing is over your head, considering joining the [Good First Issues team](https://github.com/qiskit-community/qiskit-camp-africa-19/issues/1)⚠️(link). You want be participating of the competition, but you will contribute and learn a lot!
+That's ok, but the IBM Challenge is definitely aimed at teams in terms of the amount of work expected within just 24 hours. It's very possible for someone to complete the challenge alone, but all final projects will be judged against each other regardless of team size. 
 
-</dd>
-  <dt name="tokill">My team is not reaching the minimum amount of members</dt>
-  <dd>
-
-If during the team formation stage your team is not gaining traction (has two or less members) it will be considered a candidate to be closed. It will be labeled as such and that will serve as some sort of "last call" to encourage its members to find more participants interested in the idea. After some undefined amount of time, it will be closed and its members are free to find new teams. 
-
-</dd>
-  <dt name="full">My team is complete</dt>  
-  <dd>
-
-Once a team reaches 5 members, the issue is labeled as `group is full`. Since 5 is a hard limit, the team cannot have more members. If you see that there is more people interested, consider opening a new team as a spin off and forward the participants to this new issue.
-
-</dd>
 </dl>
 
 ## The hacking part of the hackathon
@@ -111,34 +49,25 @@ Once a team reaches 5 members, the issue is labeled as `group is full`. Since 5 
 <dl>
   <dt name="ready">My team is ready. Let's hack!</dt>  
   <dd>
-
-After the project is defined and the team is complete, you can ask an IBMer in the channel `#qiskit-camp-africa`⚠️(slack channel) (qiskit.slack.com) to add the label `group ready`. This should happen before the group formation stage is finished. From this point on, you can use the issue to communicate progress as additional comments.
+      
+IBM Quantum will have a few team members around on Saturday morning and early afternoon to help answer questions or provide guidance, but then the rest is up to you. Some general tips for success:
+      
+      - Set small goals and continue to iterate
+      - If something isn't working, don't waste too much time trying to fix it
+      - Communicate constantly with your teammates 
+      - Have fun
+      - Seriously, have fun! 
 
 </dd>
 
-<dt name="coach">The team needs a coach</dt>
-<dd>
-    
-A Qiskit coach guides and advises the team in its project.
-A Qiskit coach will also be your contact point after the hackathon, in case the project continues. Your team will get a coach assigned during the first hours of the hackathon on the first day. A team might have more than one coach, but at least one coach.
+</dl>
 
-</dd></dl>
+## It's submission time!
 
-## It's presentation time!
+Remember, all projects must be submitted through QCHack. For IBM Quantum's challenge, we also expect you to submit a presentation along with your project. Your project presentation can either be a YouTube video (no longer than 5 minutes) or a powerpoint slideshow (no more than 12 slides). Our judges will be reviewing your projects on Monday and Tuesday, so make sure your presentation clearly outlines the project your built, your team members, and everything you're proud of. 
 
-After the hackathon finishes, the team will have extra time (around 1 hour) to prepare for a 3-minute-long presentation. [This article](https://medium.com/qiskit/6-tips-for-an-amazing-qiskit-hackathon-presentation-e6cea20ce3b3) has good advice that coaches and judges have been collecting during the past camp editions. Make sure you are following those guidelines!
-
-## It's awards time!
-
-After the presentations, the 3 judges will have an hour for deliberating the hackathon winners. There is a 1st and a 2nd prize winners, which will be evaluated on:
- 1. Originality and Uniqueness
- 2. Live Pitch Presentation
- 3. Usefulness
- 4. Technical complexity.
+[This article](https://medium.com/qiskit/6-tips-for-an-amazing-qiskit-hackathon-presentation-e6cea20ce3b3) has good advice that coaches and judges have been collecting during past Qiskit Hackathons. 
 
 
-The 1st place winners will receive a paid trip to the annual flagship Qiskit Camp event near Yorktown Heights, NY ⚠️(award).
-
-Also during this time all the participant will vote for the community choice award. Instructions on how to vote will be provided after the presentations.
 
 
