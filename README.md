@@ -10,13 +10,12 @@ As part of QCHack 2022, IBM Quantum is providing the following challenge for hac
 <dl>
     <dt name="get-prepared">Get Prepared</dt>
     <dd>
-      
 Check the [preparation & installation document](preparation%26installation.md) note for things to do before the hackathon.
 
 </dd>
 
         
-IBM Quantum offers a variets of learning materials around Qiskit. First - check out the replay of Abby Mitchell's [QCHack Qiskit tutorial here](https://www.twitch.tv/quantumcoalition). Next, explore the [Qiskit Textbook](https://qiskit.org/textbook-beta/) which has chapters on nearly every side of quantum computing. Finally, watch some videos on the [Qiskit YouTube page](https://www.youtube.com/c/qiskit). 
+IBM Quantum offers a variets of learning materials around Qiskit. First - check out the replay of Abby Mitchell's [QCHack Qiskit tutorial here](https://www.twitch.tv/videos/1448227260). Next, explore the [Qiskit Textbook](https://qiskit.org/textbook-beta/) which has chapters on nearly every side of quantum computing. Finally, watch some videos on the [Qiskit YouTube page](https://www.youtube.com/c/qiskit). 
 
 All the proposed projects should make use of some part of Qiskit (including the backends). They can also extend Qiskit or analyze it in some way. See the full challenge document for details.
 
