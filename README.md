@@ -69,4 +69,4 @@ Remember, all projects must be submitted through QCHack. For IBM Quantum's chall
 
 
 
-
+NOTE - mention how they'll be graded against each other, mention presentation only needed for tier 2, mention how the issue should be set up on this github to link to other, refer people to Slack as well 
