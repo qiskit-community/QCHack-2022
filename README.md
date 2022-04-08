@@ -1,5 +1,7 @@
 ## IBM Quantum Challenge Overview
 
+![logo image](https://github.com/qiskit-community/QCHack-2022/blob/master/QCHack%20IBM%20Challenge%202022.pdf)
+
 As part of QCHack 2022, IBM Quantum is providing the following challenge for all hackathon participants. IBM Quantum strongly suggests approaching this project with a team. You and your team should open an issue on this page which contains info about who you are, what your project is, and most importantly a link to your GitHub page where you will be building or maintaining the code for your project. 
 
 In order for a project to be eligible for review, it must be submitted directly to QCHack on Sunday, April 10th before the deadline. If you do not submit your project to the organizers before the deadline, it is disqualified. 
