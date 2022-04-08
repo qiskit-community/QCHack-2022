@@ -1,11 +1,17 @@
 ## IBM Quantum Challenge Overview
 
-As part of QCHack 2022, IBM Quantum is providing the following challenge for hackathon participants. The full challenge will be released on the morning of Saturday, April 9th. All projects can be maintained as issues on this GitHub page, but need to be submitted directly to the QCHack organizers on Sunday morning. If you do not submit your project to the organizers before the deadline, it is disqualified. 
+As part of QCHack 2022, IBM Quantum is providing the following challenge for all hackathon participants. IBM Quantum strongly suggests approaching this project with a team. You and your team should open an issue on this page which contains info about who you are, what your project is, and most importantly a link to your GitHub page where you will be building or maintaining the code for your project. 
+
+In order for a project to be eligible for review, it must be submitted directly to QCHack on Sunday, April 10th before the deadline. If you do not submit your project to the organizers before the deadline, it is disqualified. 
 
 
 ------
 
-## Before starting
+Click here to see the PDF of the IBM Quantum Challenge at QCHack 2022
+
+------
+
+## Hackathon Tips: Getting Started
 
 <dl>
     <dt name="get-prepared">Get Prepared</dt>
@@ -43,7 +49,7 @@ That's ok, but the IBM Challenge is definitely aimed at teams in terms of the am
 
 </dl>
 
-## The hacking part of the hackathon
+## Building your Project and Finding Help
 
 <dl>
   <dt name="ready">My team is ready. Let's hack!</dt>  
@@ -58,15 +64,15 @@ IBM Quantum will have a few team members around on Saturday morning and early af
       - Seriously, have fun! 
 
 </dd>
-
+If you find you still need help with aspects of Qiskit or project design in general, we recommend you explore the numerous YouTube resources or Qiskit documentation. IBM Quantum believes that Hackathons are meant to be challenging, educational events. We're expecting most participants will need to do some research or explore new tools in order to finish their project. If your team is still stuck, try joining the Qiskit Slack and asking there. 
+    
 </dl>
 
-## It's submission time!
+## Submitting your Project and the Judging Process
 
-Remember, all projects must be submitted through QCHack. For IBM Quantum's challenge, we also expect you to submit a presentation along with your project. Your project presentation can either be a YouTube video (no longer than 5 minutes) or a powerpoint slideshow (no more than 12 slides). Our judges will be reviewing your projects on Monday and Tuesday, so make sure your presentation clearly outlines the project your built, your team members, and everything you're proud of. 
+Remember, all projects must be submitted through QCHack. Check the Discord for full submission details. If you are submitting a Tier 2 project we also expect you to submit a presentation alongside. Your project presentation can either be a YouTube video (no longer than 5 minutes) or a powerpoint slideshow (no more than 12 slides). Our judges will be reviewing your projects next week, so make sure your presentation clearly outlines the project your built, your team members, and everything you're proud of. 
 
-[This article](https://medium.com/qiskit/6-tips-for-an-amazing-qiskit-hackathon-presentation-e6cea20ce3b3) has good advice that coaches and judges have been collecting during past Qiskit Hackathons. 
+[This article](https://medium.com/qiskit/6-tips-for-an-amazing-qiskit-hackathon-presentation-e6cea20ce3b3) has good advice that coaches and judges have been collecting during past Qiskit Hackathons. Remember, presentations are only needed for a Tier 2 submission.
 
+There is a wide range of projects that can be built within the IBM Quantum challenge. It's important to note that our judges prioritize QUALITY of the project over quantity of modifications your team added. A well-built project with clever design and unique implementation would be scored better than a project that rushed to include every possible extra feature.
 
-
-NOTE - mention how they'll be graded against each other, mention presentation only needed for tier 2, mention how the issue should be set up on this github to link to other, refer people to Slack as well 
