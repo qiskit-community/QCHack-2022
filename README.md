@@ -16,7 +16,7 @@ Click here to see the PDF of the IBM Quantum Challenge at QCHack 2022
 <dl>
     <dt name="get-prepared">Get Prepared</dt>
     <dd>
-Check the [preparation & installation document](preparation%26installation.md) note for things to do before the hackathon.
+Check the [preparation & installation document](https://github.com/qiskit-community/QCHack-2022/blob/master/preparation%26installation.md) note for things to do before the hackathon.
 
 </dd>
 
