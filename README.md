@@ -14,12 +14,10 @@ Click here to see the PDF of the IBM Quantum Challenge at QCHack 2022
 ## Hackathon Tips: Getting Started
 
 <dl>
-    <dt name="get-prepared">Get Prepared</dt>
-    <dd>
-Check the [preparation and installation document](https://github.com/qiskit-community/QCHack-2022/blob/master/preparation%26installation.md) note for things to do before the hackathon.
-
-</dd>
-
+    <dt>Get Prepared</dt>
+    
+<dd>
+Check the [prep document](https://github.com/qiskit-community/QCHack-2022/blob/master/preparation%26installation.md) note for things to do before the hackathon.
         
 IBM Quantum offers a variets of learning materials around Qiskit. First - check out the replay of Abby Mitchell's [QCHack Qiskit tutorial here](https://www.twitch.tv/videos/1448227260). Next, explore the [Qiskit Textbook](https://qiskit.org/textbook-beta/) which has chapters on nearly every side of quantum computing. Finally, watch some videos on the [Qiskit YouTube page](https://www.youtube.com/c/qiskit). 
 
