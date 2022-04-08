@@ -17,6 +17,7 @@ Click here to see the PDF of the IBM Quantum Challenge at QCHack 2022
     <dt>Get Prepared</dt>
     
 <dd>
+    
 Check the [prep document](prepdoc.md) note for things to do before the hackathon.
     
         
@@ -24,7 +25,7 @@ IBM Quantum offers a variets of learning materials around Qiskit. First - check 
 
 All the proposed projects should make use of some part of Qiskit (including the backends). They can also extend Qiskit or analyze it in some way. See the full challenge document for details.
 
-</dd>
+</dd></dl>
 
 ## Team formation
 
