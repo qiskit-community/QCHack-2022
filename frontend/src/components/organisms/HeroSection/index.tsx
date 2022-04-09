@@ -1,4 +1,4 @@
-import { Button, Flex, Heading, VStack } from "@chakra-ui/react";
+import { Box, Button, Flex, Heading, VStack } from "@chakra-ui/react";
 import React from "react";
 import { navigate } from "gatsby";
 

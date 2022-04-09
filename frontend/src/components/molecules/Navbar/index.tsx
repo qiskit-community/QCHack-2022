@@ -1,5 +1,5 @@
 import { Flex, Heading, Spacer } from "@chakra-ui/react";
-import { Link } from "gatsby";
+import { Link, navigate } from "gatsby";
 import React from "react";
 
 const Navbar = () => {
@@ -12,7 +12,9 @@ const Navbar = () => {
       color="white"
       px="20"
     >
-      <Heading fontSize="1.5rem">Quantum Prisoner's Dilemma</Heading>
+      <Heading fontSize="1.5rem" onClick={() => navigate("/")} cursor="pointer">
+        Quantum Prisoner's Dilemma
+      </Heading>
       <Spacer />
       <Flex w="8%" fontSize={"1.25rem"}>
         <Link to="/tutorial">Tutorial</Link>
