@@ -49,7 +49,7 @@ That's ok! Make sure you post in the Discord channel letting others know which c
 
 That's ok, but the IBM Challenge is definitely aimed at teams in terms of the amount of work expected within just 24 hours. It's very possible for someone to complete the challenge alone, but all final projects will be judged against each other regardless of team size. 
 
-</dl>
+    </dd></dl>
 
 ## Building your Project and Finding Help
 
