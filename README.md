@@ -4,7 +4,7 @@
 
 As part of QCHack 2022, IBM Quantum is providing the following challenge for all hackathon participants. IBM Quantum strongly suggests approaching this project with a team. You and your team should [open an issue on this page](https://github.com/qiskit-community/QCHack-2022/issues/new/choose) which contains info about who you are, what your project is, and most importantly a link to your GitHub page where you will be building or maintaining the code for your project. 
 
-In order for a project to be eligible for review, it must be submitted directly to QCHack on Sunday, April 10th before the deadline. If you do not submit your project to the organizers before the deadline, it is disqualified. 
+In order for a project to be eligible for review, it must be submitted directly to QCHack on Sunday, April 10th before the deadline of 10am ET. If you do not submit your project to the organizers before the deadline, it is disqualified. 
 
 
 ------
@@ -66,13 +66,13 @@ IBM Quantum will have a few team members around on Saturday morning and early af
       - Seriously, have fun! 
 
 </dd>
-If you find you still need help with aspects of Qiskit or project design in general, we recommend you explore the numerous YouTube resources or Qiskit documentation. IBM Quantum believes that Hackathons are meant to be challenging, educational events. We're expecting most participants will need to do some research or explore new tools in order to finish their project. If your team is still stuck, try joining the Qiskit Slack and asking there. 
+If you find you still need help with aspects of Qiskit or project design in general, we recommend you explore the numerous YouTube resources or Qiskit documentation. IBM Quantum believes that Hackathons are meant to be challenging, educational events. We're expecting most participants will need to do some research or explore new tools in order to finish their project. If your team is still stuck, try [joining the Qiskit Slack](https://ibm.co/joinqiskitslack) and asking there. 
     
 </dl>
 
 ## Submitting your Project and the Judging Process
 
-Remember, all projects must be submitted through QCHack. Check the Discord for full submission details. If you are submitting a Tier 2 project we also expect you to submit a presentation alongside. Your project presentation can either be a YouTube video (no longer than 5 minutes) or a powerpoint slideshow (no more than 12 slides). Our judges will be reviewing your projects next week, so make sure your presentation clearly outlines the project your built, your team members, and everything you're proud of. 
+Remember, all projects must be submitted through QCHack. Check the Discord for full submission details. If you are submitting a Tier 2 project we also expect you to submit a presentation alongside. Your project presentation can either be a YouTube video (no longer than 5 minutes) or a powerpoint slideshow (no more than 12 slides). Our judges will be reviewing your projects next week, so make sure your presentation clearly outlines the project you built, your team members, and everything you're proud of. 
 
 [This article](https://medium.com/qiskit/6-tips-for-an-amazing-qiskit-hackathon-presentation-e6cea20ce3b3) has good advice that coaches and judges have been collecting during past Qiskit Hackathons. Remember, presentations are only needed for a Tier 2 submission.
 
