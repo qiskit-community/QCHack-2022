@@ -65,8 +65,10 @@ IBM Quantum will have a few team members around on Saturday morning and early af
       - Have fun
       - Seriously, have fun! 
 
-</dd>
+
 If you find you still need help with aspects of Qiskit or project design in general, we recommend you explore the numerous YouTube resources or Qiskit documentation. IBM Quantum believes that Hackathons are meant to be challenging, educational events. We're expecting most participants will need to do some research or explore new tools in order to finish their project. If your team is still stuck, try [joining the Qiskit Slack](https://ibm.co/joinqiskitslack) and asking there. 
+      
+    </dd>
     
 </dl>
 
