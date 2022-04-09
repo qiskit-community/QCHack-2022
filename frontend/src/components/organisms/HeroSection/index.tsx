@@ -8,7 +8,7 @@ const HeroSection = () => {
       justifyContent="center"
       alignItems="center"
       w="100%"
-      h="calc(100vh - 115px)"
+      h="calc(100vh - 100px)"
       bg="green.400"
       color="white"
     >
