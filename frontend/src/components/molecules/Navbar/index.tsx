@@ -12,7 +12,7 @@ const Navbar = () => {
       color="white"
       px="20"
     >
-      <Heading>Quantum Prisoner's Dilemma</Heading>
+      <Heading fontSize="2rem">Quantum Prisoner's Dilemma</Heading>
       <Spacer />
       <Flex w="8%" fontSize={"1.25rem"}>
         <Link to="/tutorial">Tutorial</Link>
