@@ -9,7 +9,7 @@ In order for a project to be eligible for review, it must be submitted directly 
 
 ------
 
-[Click here at 10am ET on Saturday to see the PDF of the IBM Quantum Challenge at QCHack 2022](https://github.com/qiskit-community/QCHack-2022/blob/master/QCHack%20IBM%20Challenge%202022.pdf)
+[Click here to see the PDF of the IBM Quantum Challenge at QCHack 2022](https://github.com/qiskit-community/QCHack-2022/blob/master/QCHack%20IBM%20Challenge%202022.pdf)
 
 ------
 
