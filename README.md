@@ -49,7 +49,7 @@ That's ok! Make sure you post in the Discord channel letting others know which c
 
 That's ok, but the IBM Challenge is definitely aimed at teams in terms of the amount of work expected within just 24 hours. It's very possible for someone to complete the challenge alone, but all final projects will be judged against each other regardless of team size. 
 
-    </dd></dl>
+</dd></dl>
 
 ## Building your Project and Finding Help
 
@@ -68,7 +68,7 @@ IBM Quantum will have a few team members around on Saturday morning and early af
 
 If you find you still need help with aspects of Qiskit or project design in general, we recommend you explore the numerous YouTube resources or Qiskit documentation. IBM Quantum believes that Hackathons are meant to be challenging, educational events. We're expecting most participants will need to do some research or explore new tools in order to finish their project. If your team is still stuck, try [joining the Qiskit Slack](https://ibm.co/joinqiskitslack) and asking there. 
       
-    </dd>
+</dd>
     
 </dl>
 
