@@ -3,7 +3,7 @@ import React from "react";
 
 const DescriptionSection = () => {
   return (
-    <VStack w="6xl" my="20">
+    <VStack w="6xl">
       <Heading textAlign="start" fontSize="1.5rem">
         What is this about?
       </Heading>
