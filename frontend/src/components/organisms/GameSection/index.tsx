@@ -25,7 +25,7 @@ const GameSection = () => {
   const [picker, setPicker] = React.useState("simple");
 
   const handleSubmit = () => {
-    fetch(process.env.APIURL || "", {
+    fetch(process.env.APIURL || "http://localhost:8080", {
       method: "POST",
       body: JSON.stringify({
         gamma: gamma,
